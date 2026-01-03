@@ -1,0 +1,3 @@
+El juego del Ahorcado, tambien conocido como "Hangman" o "Colgado", es un juego de lapiz y papel para dos o mas jugadores con origenes inciertos.
+Consiste en que un jugador piensa en una palabra y el otro intenta adivinarla.
+Se cree que surgio en la epoca victoriana.
