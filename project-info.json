@@ -1,0 +1,27 @@
+{
+    "tech": [
+        "Python",
+        "Tkinter"
+    ],
+    "features": [
+        "Interfaz Gráfica (GUI) con Diseño Plano (Flat Design)",
+        "Modo PvP Local (Retador vs Adivinador)",
+        "Modo Contrarreloj (Time Attack 60s)",
+        "Módulo Administrativo con CRUD y validaciones",
+        "Efectos de sonido interactivos y partículas de victoria"
+    ],
+    "stack": {
+        "language": "Python",
+        "framework": "Tkinter (Standard Lib)",
+        "tools": [
+            "Winsound (Windows Audio)",
+            "Git",
+            "Random/Datetime Modules"
+        ]
+    },
+    "screenshots": [],
+    "description": {
+        "es": "Aplicación de escritorio moderna del juego Ahorcado. Incluye una interfaz gráfica pulida, sistema de gestión de palabras, y modos de juego innovadores como Duelo y Blitz. Destaca por su implementación algorítmica desde cero sin funciones predefinidas de Python.",
+        "en": "Modern desktop application for the Hangman game. Features a polished GUI, word management system, and innovative game modes like Duel and Blitz. Notable for its algorithmic implementation from scratch without Python built-in functions."
+    }
+}
