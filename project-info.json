@@ -1,32 +1,54 @@
 {
-    "project": "Ahorcado GUI App",
-    "tech": [
-        "Python",
-        "Tkinter",
-        "Winsound API"
-    ],
-    "features": [
-        "Modern Flat Design GUI",
-        "Local PvP Mode (Challenger vs Guesser)",
-        "Time Attack Mode (60s Blitz)",
-        "Administrative CRUD Module",
-        "Interactive Sound Effects & Victoria Particles"
-    ],
-    "stack": {
-        "language": "Python",
-        "framework": "Tkinter",
-        "tools": [
-            "Winsound (Windows Audio)",
-            "Git",
-            "Custom Logic (No prebuilts)"
+    "en": {
+        "tech": [
+            "Python",
+            "Tkinter",
+            "Win32 Multimedia API",
+            "UI/UX Design"
         ],
-        "database": "Text Files (.txt Persistence)"
+        "features": [
+            "Modern flat-design GUI with smooth transitions",
+            "Local PvP Mode: Challenger vs Guesser dynamic",
+            "Time Attack Mode: High-intensity 60-second Blitz",
+            "Integrated Administrative CRUD for word management",
+            "Interactive sound effects and reward visuals"
+        ],
+        "stack": {
+            "language": "Python 3",
+            "framework": "Tkinter",
+            "tools": [
+                "Winsound",
+                "Custom Animation Logic"
+            ],
+            "database": "Text Persistence (.txt)"
+        },
+        "screenshots": [],
+        "description": "A polished desktop version of Hangman that emphasizes user engagement and visual flair. The application features a clean, modern flat-design aesthetic with customized Tkinter components and real-time visual feedback. With various competitive modes — including a high-stakes 60-second Blitz and a strategic local PvP — and a full administrative suite for content curation, it demonstrates a complete product lifecycle from core logic to professional UI polish."
     },
-    "screenshots": [
-        "https://raw.githubusercontent.com/Geovanni-González/Ahorcado-GUI-App/main/screenshots/principalImage.jpg"
-    ],
-    "description": {
-        "es": "Aplicación de escritorio moderna del juego Ahorcado. Incluye una interfaz gráfica pulida, sistema de gestión de palabras, y modos de juego innovadores como Duelo y Blitz.",
-        "en": "Modern desktop application for the Hangman game. Features a polished GUI, word management system, and innovative game modes like Duel and Blitz."
+    "es": {
+        "tech": [
+            "Python",
+            "Tkinter",
+            "Win32 Multimedia API",
+            "Diseño UI/UX"
+        ],
+        "features": [
+            "Interfaz moderna de diseño plano con transiciones suaves",
+            "Modo PvP local: Dinámica Retador vs Adivinador",
+            "Modo de ataque por tiempo: Blitz de alta intensidad",
+            "Módulo administrativo CRUD para gestión de palabras",
+            "Efectos de sonido interactivos y visuales de recompensa"
+        ],
+        "stack": {
+            "language": "Python 3",
+            "framework": "Tkinter",
+            "tools": [
+                "Winsound",
+                "Lógica de Animación Propia"
+            ],
+            "database": "Persistencia en Texto (.txt)"
+        },
+        "screenshots": [],
+        "description": "Una versión de escritorio pulida del Ahorcado que enfatiza el compromiso del usuario y el estilo visual. La aplicación cuenta con una estética moderna de diseño plano con componentes de Tkinter personalizados y retroalimentación visual en tiempo real. Con varios modos competitivos — incluyendo un Blitz de 60 segundos y un PvP local estratégico — demuestra un ciclo de vida completo del producto, desde la lógica central hasta el pulido de la UI de nivel profesional."
     }
 }
