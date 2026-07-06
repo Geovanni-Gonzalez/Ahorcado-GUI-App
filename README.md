@@ -1,5 +1,7 @@
 ﻿# Ahorcado GUI App
 
+[![CI](https://github.com/Geovanni-Gonzalez/Ahorcado-GUI-App/actions/workflows/ci.yml/badge.svg)](https://github.com/Geovanni-Gonzalez/Ahorcado-GUI-App/actions/workflows/ci.yml)
+
 ## Descripción
 Versión gráfica del Ahorcado construida con Python y Tkinter. Incluye administración de contenido, modos de juego y persistencia mediante archivos.
 
